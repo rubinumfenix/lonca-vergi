@@ -154,7 +154,7 @@ export default async (req) => {
       return panel(
         "Vergi Ödemesi",
         "Vergini ödedikten sonra aşağıdaki butona bas. Listedeki durumun güncellenir.",
-        "Ödendi", "paid", 3
+        "Ödeme Paneli", "paid", 3
       );
   }
 
